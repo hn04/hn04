@@ -1,3 +1,3 @@
        WM  :  yabai
     Shell  :  ???
-Languages  :  Python, C, Java
+Languages  :  Python, C, Java & shell
