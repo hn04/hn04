@@ -1,3 +1,3 @@
        WM  :  yabai
-    Shell  :  ???
+    Shell  :  zsh & bash 💀 
 Languages  :  Python, C, Java & shell
